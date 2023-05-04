@@ -1,0 +1,14 @@
+alpine-base
+bash
+curl
+e2fsprogs
+e2fsprogs-extra
+libc6-compat
+lynx
+nano
+nano-syntax
+openssh-client
+openssl
+syslinux
+tmux
+vim
